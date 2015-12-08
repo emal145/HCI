@@ -1,0 +1,151 @@
+.basic {
+	height: 25px;
+    width: 150px;
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+
+.display {
+	height: 280px;
+    padding: 22px;
+}
+
+.handy {
+	padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    height: 350px;
+    width: 200px;
+    border-radius: 15px;
+    margin: 30px;
+    background-color: black;
+	float: left;
+}
+
+.handy1 {
+	background-color: lightgreen;
+}
+
+.handy2 {
+	background-color: #36C77B;
+}
+
+.handy3 {
+	background-image: url("../assets/b1.jpg");
+	background-size: cover
+}
+
+.handy4 {
+	background-image: url("../assets/b2.jpg");
+	background-size: cover
+}
+
+.handy5 {
+	background-image: url("../assets/b3.jpg");
+	background-size: cover
+}
+
+.handy6 {
+	background-image: url("../assets/b4.jpg");
+	background-size: cover
+}
+
+.handy7 {
+	background-image: url("../assets/b5.jpg");
+	background-size: cover
+}
+
+.handy8 {
+	background-image: url("../assets/b6.png");
+	background-size: cover
+}
+
+.handy9 {
+	background-image: url("../assets/b7.jpg");
+	background-size: cover
+}
+
+.handy10 {
+	background-image: url("../assets/b8.jpg");
+	background-size: cover
+}
+
+.handy11 {
+	background-image: url("../assets/b9.jpg");
+	background-size: cover
+}
+
+.handy12 {
+	background-image: url("../assets/b10.jpg");
+	background-size: cover
+}
+
+#style1 {
+	background-color: #36C77B;
+	color: white;
+    border-radius: 3px;
+    font-weight: bolder;
+}
+
+#style2 {
+	background-color: white;
+	color: green;
+    border-radius: 3px;
+    font-weight: bolder;
+}
+
+#style3 {
+	background-color: white;
+    color: lightgreen;
+    border-radius: 3px;
+    font-weight: bolder;
+}
+
+#style4 {
+	background-color: white;
+    color: green;
+    border-radius: 3px;
+    font-weight: bolder;
+    border: 1px solid green;
+}
+
+#style5 {
+	background-color: white;
+    color: #36C77B;
+    border-radius: 3px;
+    font-weight: bolder;
+}
+
+#style6 {
+	background-color: white;
+    color: #36C77B;
+    border-radius: 3px;
+    font-weight: bolder;
+    border: 1px solid #36C77B;
+}
+
+#style7 {
+	background-color: green;
+    color: white;
+    border-radius: 3px;
+    font-weight: bolder;
+}
+
+#samsung {
+	position: absolute;
+    color: white;
+    text-align: center;
+    font-size: 9px;
+    top: 45px;
+    left: 125px;
+    font-weight: bold;
+}
+
+#btnSamsung {
+	margin: 10px auto;
+    width: 50px;
+    height: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
